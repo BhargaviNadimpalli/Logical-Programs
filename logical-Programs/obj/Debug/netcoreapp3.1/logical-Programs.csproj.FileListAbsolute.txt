@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\cSharp\logical-Programs\logical-Programs\bin\Debug\netcoreapp3.1\logical-Programs.exe
+C:\Users\HP\source\repos\cSharp\logical-Programs\logical-Programs\bin\Debug\netcoreapp3.1\logical-Programs.deps.json
+C:\Users\HP\source\repos\cSharp\logical-Programs\logical-Programs\bin\Debug\netcoreapp3.1\logical-Programs.runtimeconfig.json
+C:\Users\HP\source\repos\cSharp\logical-Programs\logical-Programs\bin\Debug\netcoreapp3.1\logical-Programs.runtimeconfig.dev.json
+C:\Users\HP\source\repos\cSharp\logical-Programs\logical-Programs\bin\Debug\netcoreapp3.1\logical-Programs.dll
+C:\Users\HP\source\repos\cSharp\logical-Programs\logical-Programs\bin\Debug\netcoreapp3.1\logical-Programs.pdb
+C:\Users\HP\source\repos\cSharp\logical-Programs\logical-Programs\obj\Debug\netcoreapp3.1\logical-Programs.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\cSharp\logical-Programs\logical-Programs\obj\Debug\netcoreapp3.1\logical-Programs.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\cSharp\logical-Programs\logical-Programs\obj\Debug\netcoreapp3.1\logical-Programs.AssemblyInfo.cs
+C:\Users\HP\source\repos\cSharp\logical-Programs\logical-Programs\obj\Debug\netcoreapp3.1\logical-Programs.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\cSharp\logical-Programs\logical-Programs\obj\Debug\netcoreapp3.1\logical-Programs.dll
+C:\Users\HP\source\repos\cSharp\logical-Programs\logical-Programs\obj\Debug\netcoreapp3.1\logical-Programs.pdb
+C:\Users\HP\source\repos\cSharp\logical-Programs\logical-Programs\obj\Debug\netcoreapp3.1\logical-Programs.genruntimeconfig.cache
